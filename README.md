@@ -1,4 +1,5 @@
-# Mimari_Projesi
+Hamming SEC-DED Code Simülatörü
+
 # Hamming SEC-DED Kod Simülatörü
 
 Bu proje, tek bitlik hataların düzeltilmesi (SEC - Single Error Correction) ve çift bitlik hataların algılanması (DED - Double Error Detection) amacıyla kullanılan Hamming kodlama yöntemini Python dili ile gerçekleştiren grafik arayüzlü bir simülatördür.
