@@ -48,13 +48,14 @@ Terminal (CLI) Kullanımı:
 python3 main.py
 
 📊 Örnek Çıktı (GUI Terminal Log)
------- HATA ANALİZ LOG ------
+
+- HATA ANALİZ LOG -
 Orijinal Kod     : 101101100011
 Hatalı Kod       : 100101100011
 Hata Pozisyonu   : 3
 Sendrom          : 3
 Düzeltilmiş Kod  : 101101100011
-----------------------------
+
 
 ✅ Özellikler
 8 / 16 / 32 bit veri girişi desteği
