@@ -87,6 +87,7 @@ Mobil arayüz (Kivy) veya web tabanlı GUI (Flask)
 Enes Malik Altınpınar
 Bursa Teknik Üniversitesi – Bilgisayar Mühendisliği
 Öğrenci No: 22360859323
+Video Bağlantısı:•	https://youtu.be/Tx19rb27SdA
 
 📚 Kaynakça
 Hamming, R. W. (1950). Error Detecting and Error Correcting Codes.
